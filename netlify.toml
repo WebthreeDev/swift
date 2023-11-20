@@ -1,0 +1,3 @@
+[build]
+  functions = "path/to/your/functions"
+  publish = "path/to/your/public/directory"
